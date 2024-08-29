@@ -1,6 +1,6 @@
-# AI Flashcards
+# AI Flashcard
 
-AI FlashCard is a flashcard generation web application built with Node.js. Designed to enhance learning and memorization, MemoGenie offers a seamless experience for creating, saving, and reviewing flashcards. It includes robust features like user authentication, subscription management, and local storage tracking, making it a powerful tool for both students and professionals.
+AI FlashCard is a flashcard generation web application built with Node.js. Designed to enhance learning and memorization, AI Flashcard offers a seamless experience for creating, saving, and reviewing flashcards. It includes robust features like user authentication, subscription management, and local storage tracking, making it a powerful tool for both students and professionals.
 
 ## Table of Contents
 
@@ -16,9 +16,9 @@ AI FlashCard is a flashcard generation web application built with Node.js. Desig
 
 ## Features
 
-- **User Authentication:** Powered by [Clerk](https://clerk.dev/), MemoGenie provides secure and efficient sign-up, login, and logout functionalities.
+- **User Authentication:** Powered by [Clerk](https://clerk.dev/), AI Flashcard provides secure and efficient sign-up, login, and logout functionalities.
   
-- **Subscription Management:** Integrated with [Stripe](https://stripe.com/), MemoGenie offers two subscription plans:
+- **Subscription Management:** Integrated with [Stripe](https://stripe.com/), AI Flashcard offers two subscription plans:
   - **Basic Plan:** $5/month, allows up to 100 flashcards/month, with limited storage.
   - **Pro Plan:** $10/month, offers unlimited flashcards and storage, along with priority support.
   
